@@ -1,1 +1,0 @@
-This is melih's first Git project
