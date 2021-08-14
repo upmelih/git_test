@@ -10,6 +10,9 @@ function counter(){
 function saver(){
     let countStr = count + " - "
     savePerson.textContent += countStr
+    countEl.innerText= 0
+    count = 0
+    
 }
 
 /*
